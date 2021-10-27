@@ -1,16 +1,26 @@
 {
-  "name": "nodeTtutorial",
+  "name": "express-js-tutorial-",
   "version": "1.0.0",
-  "description": "",
   "main": "1 - intro.js",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "init": "^0.1.2",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marioenpi1012/node-express-js-tutorial-.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "bootstrap": "^5.1.3",
-    "lodash": "^4.17.21"
-  }
+  "bugs": {
+    "url": "https://github.com/marioenpi1012/node-express-js-tutorial-/issues"
+  },
+  "homepage": "https://github.com/marioenpi1012/node-express-js-tutorial-#readme",
+  "keywords": [],
+  "description": ""
 }
